@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-05-10T10:31:54.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="LiYj0pkJV3tvPUeYxB8c" version="21.2.1" type="device" pages="4">
+<mxfile host="Electron" modified="2023-05-10T10:33:53.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="3dqFjWQgE4zlnqfgf2kW" version="21.2.1" type="device" pages="5">
   <diagram name="GENERAL" id="cN1bPpPmxVXguhHw4jdk">
     <mxGraphModel dx="1489" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="XbvAeAZ-zUYC5D9YNRpi-7" value="lee politica" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="860" y="-120" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XbvAeAZ-zUYC5D9YNRpi-8" value="Nuestras redes" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="XbvAeAZ-zUYC5D9YNRpi-8" value="contactanos" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="880" y="250" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XbvAeAZ-zUYC5D9YNRpi-9" value="Nustros proyectos" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
@@ -230,6 +230,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1600" y="500" as="sourcePoint" />
             <mxPoint x="1760" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UW2urBTvljI4KfrPgXtt-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.415;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XbvAeAZ-zUYC5D9YNRpi-12" target="b8oef82Tq5jURFjMfgb--2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="150" as="sourcePoint" />
+            <mxPoint x="480" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -577,6 +583,14 @@
             <mxPoint x="230" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mTRE9JQYgMN5q2Jue2EY" name="Página-5">
+    <mxGraphModel dx="1042" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
